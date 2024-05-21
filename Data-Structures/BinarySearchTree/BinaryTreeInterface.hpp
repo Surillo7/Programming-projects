@@ -1,5 +1,5 @@
 //
-//  BinaryTreeInterface.h
+//  BinaryTreeInterface.hpp
 //  Actividad12-1
 //
 //  Created by Carlos Surillo on 5/16/23.
@@ -8,7 +8,7 @@
 #ifndef BinaryTreeInterface_h
 #define BinaryTreeInterface_h
 
-#include "PrecondViolatedExcep.h"
+#include "PrecondViolatedExcep.hpp"
 template < class ItemType>
 class BinaryTreeInterface
 {

@@ -7,8 +7,8 @@
 
 #include <iostream>
 using namespace::std;
-#include "DB.h"
-#include "PersonInfo.h"
+#include "DB.hpp"
+#include "PersonInfo.hpp"
 
 
 void menu(int& choice)

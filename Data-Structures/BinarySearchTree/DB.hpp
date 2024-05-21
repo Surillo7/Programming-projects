@@ -1,5 +1,5 @@
 //
-//  DB.h
+//  DB.hpp
 //  Actividad12-1
 //
 //  Created by Carlos Surillo on 5/16/23.
@@ -8,8 +8,8 @@
 #ifndef DB_h
 #define DB_h
 
-#include "PersonInfo.h"
-#include "BinarySearchTree.h"
+#include "PersonInfo.hpp"
+#include "BinarySearchTree.hpp"
 
 class DB
 {

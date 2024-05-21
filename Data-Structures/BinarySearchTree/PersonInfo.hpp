@@ -1,5 +1,5 @@
 //
-//  PersonInfo.h
+//  PersonInfo.hpp
 //  Actividad12-1
 //
 //  Created by Carlos Surillo on 5/16/23.
@@ -10,8 +10,8 @@
 
 #include <iostream>
 using namespace::std;
-#include "MyString.h"
-#include "Date.h"
+#include "MyString.hpp"
+#include "Date.hpp"
 
 class PersonInfo
 {

@@ -1,5 +1,5 @@
 //
-//  BinaryNodeTree.h
+//  BinaryNodeTree.hpp
 //  Actividad12-1
 //
 //  Created by Carlos Surillo on 5/16/23.
@@ -11,9 +11,9 @@
 #include<iostream>
 #include<string>
 using namespace::std;
-#include "BinaryTreeInterface.h"
-#include "BinaryNode.h"
-#include "PrecondViolatedExcep.h"
+#include "BinaryTreeInterface.hpp"
+#include "BinaryNode.hpp"
+#include "PrecondViolatedExcep.hpp"
 typedef void(*FunctionType) (int anItem);
 template < class ItemType>
 class BinaryNodeTree : public BinaryTreeInterface< ItemType >

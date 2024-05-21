@@ -1,5 +1,5 @@
 //
-//  BinarySearchTree.h
+//  BinarySearchTree.hpp
 //  Actividad12-1
 //
 //  Created by Carlos Surillo on 5/16/23.
@@ -8,10 +8,10 @@
 #ifndef BinarySearchTree_h
 #define BinarySearchTree_h
 
-#include "BinaryTreeInterface.h"
-#include "BinaryNode.h"
-#include "BinaryNodeTree.h"
-#include "PrecondViolatedExcep.h"
+#include "BinaryTreeInterface.hpp"
+#include "BinaryNode.hpp"
+#include "BinaryNodeTree.hpp"
+#include "PrecondViolatedExcep.hpp"
 template < class ItemType>
 class BinarySearchTree : public BinaryNodeTree<ItemType>
 {

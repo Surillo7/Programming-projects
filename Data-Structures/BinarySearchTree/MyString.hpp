@@ -1,5 +1,5 @@
 //
-//  MyString.h
+//  MyString.hpp
 //  Actividad12-1
 //
 //  Created by Carlos Surillo on 5/16/23.
